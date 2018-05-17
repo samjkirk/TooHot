@@ -1,0 +1,2 @@
+# TooHot
+Too Hot exercise
